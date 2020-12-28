@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Syed Zakeer Hussain",
+    siteUrl: "https://zakeer.me"
   },
   plugins: [
     "gatsby-plugin-styled-components",
